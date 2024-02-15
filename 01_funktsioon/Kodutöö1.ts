@@ -25,3 +25,8 @@ console.log(`Pannkookide koostisosade kogused ${portsionSuurus} portsjoni kohta:
 console.log(`Jahu: ${kogused.jahu} grammi`);
 console.log(`Piim: ${kogused.piim} ml`);
 console.log(`Munad: ${kogused.muna} tk`);
+
+//Pannkookide koostisosade kogused 4 portsjoni kohta:
+//Jahu: 400 grammi
+//Piim: 800 ml
+//Munad: 4 tk
